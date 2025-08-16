@@ -1,4 +1,4 @@
-#Ch 0: Welcome, future Cloud Professional!#
+# Ch 0: Welcome, future Cloud Professional! #
 
 Today isn’t just another day — it’s the start of your transformation into someone who understands AWS deeply, speaks the language of the cloud, and can confidently pass certifications while applying the skills in the real world.
 
